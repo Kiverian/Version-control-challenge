@@ -1,1 +1,5 @@
+1. The terminal to me, is a way to control things on the MacBook using commands.
 
+2. The major difference between Git and Github is that Git is a version control system that allows you to save different parts of your project at different times, or screenshots so that you can go back to that specific part. Github is an online platform that gives you access to share code publicly with others. It also gives other coders an opportunity to do a group project if they decided to do so.
+
+3. We use Github to share code with others and to let others see projects.
